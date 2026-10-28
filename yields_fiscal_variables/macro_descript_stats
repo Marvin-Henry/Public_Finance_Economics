@@ -1,0 +1,9 @@
+
+<table style="text-align:center"><tr><td colspan="6" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Statistic</td><td>N</td><td>Mean</td><td>St. Dev.</td><td>Min</td><td>Max</td></tr>
+<tr><td colspan="6" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">PCE</td><td>237</td><td>5,936,469.00</td><td>6,645,429.00</td><td>62,811.98</td><td>27,687,628.00</td></tr>
+<tr><td style="text-align:left">Firm Capital</td><td>237</td><td>1,165,355.00</td><td>1,320,762.00</td><td>12,332.52</td><td>5,527,083.00</td></tr>
+<tr><td style="text-align:left">US FIrm Profits</td><td>237</td><td>821,103.60</td><td>1,043,227.00</td><td>12,178.51</td><td>4,731,855.00</td></tr>
+<tr><td style="text-align:left">Govt Spending</td><td>237</td><td>1,623,578.00</td><td>1,703,251.00</td><td>23,485.33</td><td>6,918,793.00</td></tr>
+<tr><td style="text-align:left">Tax Receipts</td><td>237</td><td>926,426.80</td><td>1,044,667.00</td><td>13,076.87</td><td>4,297,289.00</td></tr>
+<tr><td style="text-align:left">US Debt</td><td>237</td><td>8,288,817.00</td><td>11,653,595.00</td><td>43,451.52</td><td>49,131,882.00</td></tr>
+<tr><td colspan="6" style="border-bottom: 1px solid black"></td></tr></table>
